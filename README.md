@@ -21,4 +21,25 @@ Java Swing 라이브러리를 활용하여 의류 POS 프로그램을 제작하�
 5. 현재 시간 출력
 
 ## 📺 화면구성
+* 로그인 화면
+* ![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/88ce3c06-4b4b-4ed0-8af7-729f7274eefd) <br>
+* 회원가입 화면
+![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/1f1af8c4-feee-462a-b3e1-22801b500036) <br>
+* 메인 화면
+![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/aae5259d-d6a9-43f9-949c-f0d03be0ee20) <br>
+* 상품 판매 화면
+![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/129232a5-d2b2-4d06-be38-4b42e64a47b6) <br>
+* 상세 조회 화면
+![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/29835cd5-1069-40cd-b26e-b226f092e76b) <br>
+* 기간별 조회 화면
+![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/c9864f4f-1aee-4c6b-b53e-1d6a09460fbc) <br>
+* 상품 관리 화면
+![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/36a855d2-f1dc-4f88-8fae-4319efa445a3) <br>
+
+
+
+
+
+
+
 
