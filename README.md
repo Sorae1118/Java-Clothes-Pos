@@ -1,11 +1,12 @@
 # 의류 POS 프로그램
 ![메인화면](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/89c7b643-c14b-4ff9-8186-1eed9e772f79)
-<br><br><br>
+<br><br>
 
 ## 프로젝트 소개
 * 의류 매장에서 사용하는 POS기 프로그램을 참고하여 프로젝트를 진행했습니다.
 * 자바 Swing 라이브러리를 활용하여 UI를 제작하였습니다.
 * PC에 바코드 스캐너를 연결하고, 바코드를 스캔하면 상품 정보가 입력됩니다.
+<br>
 
 ## 🔨 Stacks
 <div style="display:flex; flex-direction:row;">
