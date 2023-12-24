@@ -40,10 +40,15 @@ Java Swing 라이브러리를 활용하여 의류 POS 프로그램을 제작하�
 ![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/29835cd5-1069-40cd-b26e-b226f092e76b)
 <br>
 
-* 기간별 조회 화면
-![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/c9864f4f-1aee-4c6b-b53e-1d6a09460fbc) <br>
-* 상품 관리 화면
-![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/36a855d2-f1dc-4f88-8fae-4319efa445a3) <br>
+### 기간별 조회 화면
+![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/c9864f4f-1aee-4c6b-b53e-1d6a09460fbc)
+<br>
+
+### 상품 관리 화면
+![image](https://github.com/Sorae1118/Java-Clothes-Pos/assets/115053276/36a855d2-f1dc-4f88-8fae-4319efa445a3)
+<br>
+
+
 
 
 
